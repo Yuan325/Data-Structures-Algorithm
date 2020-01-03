@@ -1,4 +1,4 @@
-# Deiv A
+# Deliv A
 - List of nodes - Edge relationship based on mapped input.
 
 # Deliv B
