@@ -1,0 +1,6 @@
+~          val  P4  B6  O6  Sa  G5
+1Pear        4   ~  22   2   6   1
+2Banana      6  -2   ~   0   4  -1
+3Orange      6  -2   0   ~   4  -1
+4Strawberry 10  -6  -4  -4   ~  -5
+5Grape       5  -1   1   1   5   ~

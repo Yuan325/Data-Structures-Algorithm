@@ -1,0 +1,6 @@
+~          val  AAA   BB    C  DDD    E
+Alfa         S    ~    >    ~   99  fig
+Bravo       67  999  -42    3    x   ==
+Charlie      ~    ~    4    ~   yz    9
+Delta       4e    3   22    x    ~  !=2
+Echo       yes    ~    ~    ~  d>e   33
